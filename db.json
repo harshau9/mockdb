@@ -1,3 +1,44 @@
 {
-  "users": []
+  "users": [
+    {
+  "firstName": "Jon",
+  "lastName": "Doe",
+  "mobile": "9874563212",
+  "role": "DISTRIBUTOR",
+  "onboardingFinished": false,
+  "emailVerified": false,
+  "aadhaarVerified": false,
+  "panVerified": false,
+},
+{
+  "firstName": "Rahul",
+  "lastName": "Krishna",
+  "mobile": "9745896412",
+  "role": "DISTRIBUTOR",
+  "onboardingFinished": false,
+  "emailVerified": false,
+  "aadhaarVerified": false,
+  "panVerified": false,
+},
+{
+  "firstName": "tom",
+  "lastName": "curran",
+  "mobile": "974583232",
+  "role": "DISTRIBUTOR",
+  "onboardingFinished": true,
+  "emailVerified": true,
+  "aadhaarVerified": true,
+  "panVerified": true,
+},
+{
+  "firstName": "Natsu",
+  "lastName": "D",
+  "mobile": "1234567890",
+  "role": "DISTRIBUTOR",
+  "onboardingFinished": false,
+  "emailVerified": false,
+  "aadhaarVerified": true,
+  "panVerified": true,
+}
+  ]
 }
